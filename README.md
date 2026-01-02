@@ -45,7 +45,7 @@ This effectively adds the fee to the reserves, increasing $k$ and rewarding liqu
 1. Clone the repository:
 ```bash
 git clone https://github.com/sunil-polupalli/decentralized_exchange.git
-cd dex-amm
+cd decentralized_exchange
 ```
 2. Start Docker environment:
 
